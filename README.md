@@ -41,6 +41,6 @@ Feel free to reach out to me through the Contact Section on my portfolio website
 
 Email: sujithsdeveloper@gmail.com
 
-GitHub: sujithsdeveloper
+GitHub: [sujithsdeveloper](https://github.com/sujithsdeveloper)
 
 LinkedIn: www.linkedin.com/in/sujithsdeveloper
